@@ -1,9 +1,9 @@
-# Morse Practice
+## Morse Practice
 
 Morse Practice app using a Binary Tree for morse codes, built in Svelte. 
-Audio created with the WebAudio API. 
+Audio created with the WebAudio API, no audio files needed. 
 
-[Try it here](morse.nikals.se)
+[Try it here](http://morse.nikals.se)
 
 ### Run it locally
 ```bash

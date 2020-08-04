@@ -5,6 +5,7 @@ Audio created with WebAudio, no audio files needed.
 
 [Try it here](http://morse.nikals.se)
 
+[![](https://github.com/nikalsh/svelte-morse/blob/master/screenshot.PNG?raw=true)](#)
 
 ### Run it locally
 ```bash
